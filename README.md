@@ -18,7 +18,7 @@ Link: https://www.cs.toronto.edu/~kriz/cifar.html
 ## Steps
 
 1. Load the dataset.
-2. Extact People and Fish data from the dataset.
+2. Extract People and Fish data from the dataset.
 3. Reshape and Preprocess the images.
 4. Load VGG16 model from keras using imagenet weights.
 5. Extract Features from VGG16.
